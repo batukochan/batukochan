@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/source.gif" align="right" width="300" height="475" >
+<img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/source.gif" align="right" width="300" height="465" >
 
 ### Hi there, I'm Batu. :blush:
 ## | Jr. Front End Developer | Songwriter & Composer |
