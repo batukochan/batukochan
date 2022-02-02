@@ -5,13 +5,17 @@
 
 * 🌱 I'm currently learning Front End Web Development Tools
 * 📫 How to reach me: 
-* [<img  width="24" align="left" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img  width="24" align="left" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
-[<img  width="24" align="left" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
+* [<img  align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img   align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img  align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img  align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=blue" />][medium]
+
+
 
 [linkedin]: https://www.linkedin.com/in/batukochan
 [medium]: https://batukochan.medium.com
 [twitter]: https://twitter.com/batukochan
+[instagram]: https://www.instagram.com/batukochan/
 
 <br />
 <br />
