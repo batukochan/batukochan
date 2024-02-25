@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/source.gif" align="right" width="30%" height="40%">
 
 ### Hi there, I'm Batu. :blush:
-## | Jr. Front End Developer | Songwriter & Composer |
+## Front End Developer 
 
 * 🌱 I'm currently learning Front End Web Development Tools
 * 📫 How to reach me: 
@@ -12,7 +12,10 @@
 [<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=blue" />][medium]
 
-<br />
+### Interests
+* Rock/Metal Music
+* Songwriting and Recording
+* Playing Guitar
 <br />
 
 <summary>:bulb: GitHub Stats </summary>
